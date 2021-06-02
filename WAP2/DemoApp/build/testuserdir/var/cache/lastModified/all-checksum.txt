@@ -1,0 +1,9 @@
+/Applications/NetBeans/NetBeans 8.2.app/Contents/Resources/NetBeans/platform=1548621381000
+cluster./Users/chg/NetBeansProjects/TEKO/WAP2/DemoApp/build/cluster=1568377351000
+cluster./Applications/NetBeans/NetBeans 8.2.app/Contents/Resources/NetBeans/platform=1548621381000
+user=1568377351000
+crc=7
+locale=de_CH
+branding=demoapp
+java.version=1.8.0_202
+java.vm.version=25.202-b08

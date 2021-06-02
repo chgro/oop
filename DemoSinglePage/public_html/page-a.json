@@ -1,0 +1,4 @@
+{
+    "title": "Dies ist die Seite A",
+    "content": "<p>Der Inhalt der <span data-url=\"page-b.json\">Seite</span> sollte das sein</p>"
+}
